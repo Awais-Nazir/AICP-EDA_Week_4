@@ -29,6 +29,7 @@ We will focus on the correlation between Calories and other independent variable
 ![](https://github.com/Awais-Nazir/AICP-EDA_Week_5/blob/main/ss1.png?raw=true)
 
 <hr>
+
 ![](https://github.com/Awais-Nazir/AICP-EDA_Week_5/blob/main/ss2.png?raw=true)
 
 <hr>
